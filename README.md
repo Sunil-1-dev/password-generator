@@ -1,12 +1,12 @@
-# 🔐 Password Generator
+# Password Generator
 
 A simple and customizable password generator built with React. This application allows users to generate strong passwords with adjustable length, numeric characters, and special characters.
 
-## 📸 Demo
+## Demo
 
 ![Password Generator Screenshot](./image.png) 
 
-## 🚀 Features
+## Features
 
 - Generate random secure passwords
 - Adjustable password length (6 to 100 characters)
@@ -18,16 +18,16 @@ A simple and customizable password generator built with React. This application 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React** (with hooks)
 - **Tailwind CSS** for styling
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/khadkasunil23/password-generator.git
+git clone https://github.com/sunil-1-dev/password-generator.git
